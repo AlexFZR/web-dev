@@ -57,7 +57,11 @@ builds/**/images/*
 # Anything under a tmp folder
 **/tmp/*
 
+# Anything under a exp folder
+**/exp/*
+
 # Don't include our binary
+lenslocked.com
 images/**
 
 .config
